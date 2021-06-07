@@ -23,8 +23,9 @@
   line-height: 19px;
   list-style: none;
 }
-.Weather img {
+.Weather canvas {
   vertical-align: top;
+  margin-top: 5px;
   margin-right: 10px;
   max-height: 64px;
 }
