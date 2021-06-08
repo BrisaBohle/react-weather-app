@@ -45,3 +45,6 @@
   line-height: 1;
   font-weight: 400;
 }
+.Weather .unit a {
+  text-decoration: none;
+}
