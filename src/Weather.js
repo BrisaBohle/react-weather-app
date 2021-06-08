@@ -44,7 +44,7 @@ setCity(event.target.value);
             </div>
             <div className="col-3">
               <button className="btn btn-primary
-              w-100" value="search" type="submit">Search</button>
+              w-100 search-button" value="search" type="submit">Search</button>
             </div>
           </div>
         </form>
