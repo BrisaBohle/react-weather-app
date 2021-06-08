@@ -19,7 +19,7 @@ export default function DisplayWeather(props){
       <div className="col-6 mt-3">
         
           <div className="row">
-            <div className="col-3"><WeatherIcon code={props.data.icon}/> </div>
+            <div className="col-3"><WeatherIcon code={props.data.icon} size={52}/> </div>
           
           <div className="col-9">
           <WeatherTemperature celsius={props.data.temperature}/></div>
